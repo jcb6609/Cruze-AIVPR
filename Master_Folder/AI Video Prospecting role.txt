@@ -1,0 +1,33 @@
+AI Video Prospecting role
+////////////////////////////////////////////////////////////////////////////////////////////
+AI Video Prospecting role
+Role overview & objective
+Secure 3–5 commercial fleet pilots per month by producing highly personalized, high-impact video messages. Video outreach bypasses text fatigue by visually confronting decision-makers with their own company's operational inefficiencies on screen.
+
+Target strategy: for every company you profile, target a broad group of 10–15 high-level executives simultaneously (Director of Logistics, VP of Supply Chain, COO, CFO, Fleet Managers). Map the org completely and message multiple stakeholders to maximize the odds of an internal referral or direct reply.
+Core metric: 10 custom video messages sent per business day.
+Technical context: the Cruze differentiator
+Traditional navigation (Google Maps, standard telematics) routes vehicles around congestion after it forms. Cruze uses Physics-Informed Neural Networks (PINNs) and Multi-Agent Reinforcement Learning to coordinate commercial vehicle speeds via real-time telemetry. Instead of reacting to bottlenecks, the technology actively dissolves "phantom" traffic waves before they form — preventing continuous decel/accel cycles, eliminating idling losses, and reducing fuel consumption for fleets.
+
+Step-by-step daily workflow
+Lead sourcing & executive mapping (45 min) — pull official USDOT records from the FMCSA SAFER Company Snapshot portal. Extract total trucks and transit corridors. Map 10–15 executives using AI and verify via LinkedIn or company directories.
+Script customization via AI (45 min) — use Google AI or ChatGPT: "Act as an elite logistics consultant. Generate a conversational, punchy 30-second video script for a fleet executive at [Company Name]… Gross Annual Idle Fuel Waste = [Number of Trucks] × 1,800 hours × $5.00."
+Screen capture setup & recording (90 min) — tools: Loom (quick links + view notifications), Vidyard (unlimited basic recordings, easy embedding), Screencastify (browser extension), Clipchamp (built-in Windows editing).
+Dispatch & engagement tracking (60 min) — reach out via LinkedIn DM or email with the video link and log into the master sheet. Tip: use the 30-day LinkedIn Premium free trial.
+Script blueprint & formatting
+Master script template
+
+"Hi [First Name] — I'm a student researcher at UTSA working with Cruze. I pulled [Company Name]'s DOT data — you're running [Number] trucks across high-congestion corridors. As you can see right here on my screen, your fleet's estimated annual idling loss is hovering right around [Exact Calculated Gross Annual Idle Fuel Waste]… Worth a brief call next week to look at the data?"
+
+Performance parameters
+
+Target duration: 30 seconds max.
+Visual anchor: the exact calculated dollar amount must be clearly highlighted.
+Tone: analytical, calm, matter-of-fact.
+Operational hand-off (the lead lifecycle)
+Phase 1 — Discovery & demo call (30 min), intern-owned. Present lane analysis and secure a 30-day pilot commitment. Booking: calendly.com/cruzemaps/30min
+Phase 2 — Technical integration (30 min), tech-team-owned. Remotely connect the software to the fleet's telematics/ELD.
+Live handling & objection playbook
+Prospect wants to sync: "Appreciate the quick reply… You can grab a slot directly on our team calendar here: [Booking Link]."
+"We already track idling via our current provider": "That makes complete sense… The core difference is that standard telematics platforms function as a rearview mirror; Cruze functions through the windshield."
+No reply after 3 business days: "Hi [First Name] — just checking if you had a chance to look over the corridor idling numbers…"

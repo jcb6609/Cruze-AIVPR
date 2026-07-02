@@ -1,0 +1,19 @@
+Cruze 101 — what we're building
+////////////////////////////////////////////////////////////////////////////////////////////
+Cruze 101
+Cruze builds navigation intelligence for Class 8 truck fleets. The in-cab app gives drivers recommended speeds with optimized routes — fused from traffic-signal data (SPaT), DOT camera feeds, and on-device telemetry — so fleets save fuel, avoid incidents, and keep drivers safe.
+
+The product surfaces
+Platform (mobile app) — Flutter in-cab driver app: map navigation, glanceable Speed HUD (current / recommended / posted limit), crash + rollover detection, pothole and braking telemetry, eco "glidepath" approach to signals.
+Backend services — main-backend (routing, search, speed advisories) and ml-engine (Python: diagnostics, crash classification).
+Camera visualization — globe of live DOT traffic cameras across states (511 feeds).
+Website — public marketing site + pilot fleet signup.
+Employee Hub — this app: tasks, knowledge, people, the Growth program.
+How we talk about the product
+Advisory, never directive: we recommend speeds, we never command. "Recommended 52" + context, not "SLOW DOWN". This language rule is audited in the platform repo (docs/strategy/UX-ADVISORY-LANGUAGE-AUDIT.md) and applies to marketing copy too.
+
+Where things happen
+Interviews: cal.com/anudeep-bonagiri (a founder joins every interview)
+Chat: Discord — #general, #tech, #media, #promotions (every promotion gets announced)
+Tasks + people: this hub
+Your progression: the Growth page in the sidebar
